@@ -1,13 +1,4 @@
-# BetaGroup_JC_DS_FT_BDG_05_FinalProject
-
 # **Telco Customer Churn Analysis and Machine Learning Model**
-
-**By Beta Group** 
-1. Khairunnisa Nur Afifah (JCDS0508-007)
-2. Mayang Sari (JCDS0508-009)
-3. Stefanus William Alexander (JCDS0508-017)
-
----
 
 Tableau Dashboard: [View Dashboard](https://public.tableau.com/views/TelcoCustomerChurnDashboard_17413544666470/Home?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
